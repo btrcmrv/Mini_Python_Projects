@@ -2,10 +2,10 @@
 # Ask the user many questions, and give how many questions she/he got correct and give the percentage.
 
 #Welcome the user.
-print("Welcome to my Computer Quiz Game!")
+print("Welcome to my Statistics Quiz Game!")
 
 # Ask the user whether they want to play a game.
-playing=input("Would you like to play a computer quiz game? ")
+playing=input("Would you like to play a Statistics quiz game? ")
 if playing.lower() == "yes":
     print("Okay! Let's start! ")
 else:  
@@ -16,33 +16,33 @@ else:
 score=0
 number_of_questions=0
 
-answer=input("What does CPU stand for? ")
+answer=input("What does ANOVA stand for? ")
 number_of_questions+=1
-if answer.lower()== "central processing unit" :
+if answer.lower()== "analysis of variance" :
     print("Correct!")
     score=score+1
 else:
     print("Wrong! ")
 
-answer=input("What does RAM stand for? ")
+answer=input("What does CI stand for? ")
 number_of_questions+=1
-if answer.lower()== "random access memory" :
+if answer.lower()== "confidence interval" :
     print("Correct!")
     score+=1
 else:
     print("Wrong! ")
     
-answer=input("What does GPU stand for? ")
+answer=input("What does MSE stand for? ")
 number_of_questions+=1
-if answer.lower()== "graphics processing unit" :
+if answer.lower()== "mean square error" :
     print("Correct!")
     score+=1
 else:
     print("Wrong! ")
 
-answer=input("What does PSU stand for? ")
+answer=input("What does SS stand for? ")
 number_of_questions+=1
-if answer.lower()== "power supply" :
+if answer.lower()== "sum of squares" :
     print("Correct!")
     score+=1
 else:
