@@ -1,5 +1,5 @@
 ## QUIZ GAME!
-# Ask the user many questions, and give how many questions she/he got correct and give the percentage.
+# Ask the user many questions, and give how many questions she/he got correct together with the percentage.
 
 #Welcome the user.
 print("Welcome to my Statistics Quiz Game!")
