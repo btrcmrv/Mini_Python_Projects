@@ -31,3 +31,6 @@ Also, tell the user how many attempts they guessed the number correctly.
 
 # 3) Rock, Paper, Scissors Game #
 
+Ask the user and computer to choose rock, paper, scissors, or quit.
+
+Play a game with a computer and at the end give the score of both the computer and the user.
