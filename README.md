@@ -37,10 +37,10 @@ For GitHub:
 **Description:**
 - Start by asking the user for their name and welcoming them to the game.
 - Present the user with a choice to turn right or left.
-- If the user chooses to go right, they encounter a river and must decide whether to swim across it or walk around it.
+- If the user chooses to go left, they encounter a river and must decide whether to swim across it or walk around it.
   - If they swim across it, they are eaten by alligators.
   - If they walk around it, they run out of water and die.
-- If the user chooses to go left, they encounter a wobbly bridge and must decide whether to cross it or head back.
+- If the user chooses to go right, they encounter a wobbly bridge and must decide whether to cross it or head back.
      - If they cross the bridge, they meet a stranger.
      - If they head back, they return to the main road and lose.
 - If the user meets the stranger, they can choose to talk or not talk.
