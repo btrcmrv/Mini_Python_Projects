@@ -42,9 +42,9 @@ For GitHub:
   - If they walk around it, they run out of water and die.
 - If the user chooses to go left, they encounter a wobbly bridge and must decide whether to cross it or head back.
      - If they cross the bridge, they meet a stranger.
-              -If the user meets the stranger, they can choose to talk or not talk.
-              - If they talk to the stranger, they win the game.
-              - If they don't talk, the stranger gets offended and kills them.
      - If they head back, they return to the main road and lose.
+- If the user meets the stranger, they can choose to talk or not talk.
+  - If they talk to the stranger, they win the game.
+  - If they don't talk, the stranger gets offended and kills them.
 
 PS: Invalid options will cause you to lose the game.
