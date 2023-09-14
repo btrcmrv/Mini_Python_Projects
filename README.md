@@ -12,7 +12,10 @@ For GitHub:
 
 
 # 1) QUIZ GAME: #
-Ask users 5 Statistics abbreviation questions and tell at the end how many correct answers they had, together with how much percentage of their answers were correct.
+
+First, Welcome the user and ask whether he/she wants to play a game.
+Then, ask users 4 Statistics abbreviation questions.
+Tell at the end how many correct answers the user had, together with how much percentage of the answers were correct.
 
 # 2) Random Number Guess Game #
 
