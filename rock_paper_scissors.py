@@ -15,7 +15,7 @@ while True:
     if user_pick not in options:
         continue
       
-    ## Assign the rock paper and scissors to random pick so #rock:0, paper:1, scissors:2
+    ## Assign the rock paper and scissors to a random pick so; rock:0, paper:1, scissors:2
     random_number= random.randint(0,2)
     computer_pick=options[random_number]
     print(f'Computer picked {computer_pick}.')
