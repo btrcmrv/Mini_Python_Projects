@@ -1,6 +1,6 @@
 # Mini Python Projects for Beginners #
 
-I created these 5 mini Python Projects for Beginners with the guideline of techwithtim. 
+I created these 5 mini Python Projects for Beginners with the guideline of **techwithtim**. 
 You can see the links below:
 
 For YouTube:
@@ -9,6 +9,9 @@ For YouTube:
 
 For GitHub:
 **[https://github.com/techwithtim/5-Python-Projects-For-Beginners/tree/main]**
+
+
+PS: All the description below has been created by myself.
 
 
 ## 1) Quiz Game ##
